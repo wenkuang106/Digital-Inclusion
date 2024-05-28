@@ -1,0 +1,52 @@
+id,organization,program_name,population_name,program_status,organization_type,website,contact,email,phone,digital_inclusion_need_device,digital_inclusion_need_education,digital_inclusion_need_broadband,coalition
+6,Ahira,"Techie Tuesday with Merrie",,Active,Not-for-profit,https://www.ahirahall.org/event/techy-tuesday-with-merrie/?instance_id=3938,"Julie Morrison Putcher",Director@AhiraHall.org,"(716) 792-9418",0,1,0,30522242
+7,"Allegany County","Allegany County Telecommunications Development Corporation",,Active,Not-for-profit,,"Kier Dirlam",dirlamhk@alleganyco.com,"(585) 268-7442",0,0,1,30522242
+8,"Boundless Connections","Technology Center - Boundless Connections",,Active,For-profit,https://boundlessconnections.com/,"Christina Lopez",,"(585) 376-0099",0,1,0,30522242
+9,"Buffalo & Erie County Public Library (Tech Training Videos)","Technology Training Videos from Buffalo & Erie County Public Library (B&ECPL)",,Active,Not-for-profit,https://www.youtube.com/playlist?list=PLqYMNlV1J5NlVZCH7kVYygX7Yu3-zi-uK,,https://www.buffalolib.org/contact/contact-us,"(716) 858-7143",0,1,0,30522242
+10,"Buffalo & Erie County Public Library (Chromebook & Wifi)","Borrow Chromebook & Wi-Fi Hotspot Kits",,Active,Not-for-profit,https://www.buffalolib.org/services/computers-technology,,askus@buffalolib.org,,0,0,1,30522242
+11,"Buffalo & Erie County Public Library (Northstar Digital Lit)","Northstar Digital Literacy",,Active,,https://www.buffalolib.org/services/computers-technology,,askus@buffalolib.org,,0,1,0,30522242
+12,"Buffalo & Erie County Public Library (B&ECPL)","Book a Technology Trainer",,Active,Not-for-profit,https://www.buffalolib.org/form/book-a-technology-trainer,,askus@buffalolib.org,"(716) 858-7143",0,1,0,30522242
+13,"Buffalo Public Schools Adult Education Division","Computer Skills Training",,Active,,https://www.upskill.org/computer-training,,info@upskill.org,"(716) 888-7088 ext. 218",0,1,0,30522242
+14,"Center for Self Advocacy","Let's Connect",,Active,Not-for-profit,https://www.center4sa.org/,"Kim Lewis",klewis@center4SA.org,"(716) 768-1795",0,1,0,30522242
+15,"Corfu Public Library","Technology Tuesday",,Active,Not-for-profit,http://www.corfulibrary.org/services.html,"Diana Reding",corfulibrary@nioga.org,"(585) 599-3321",0,1,1,30522242
+16,"Cornell Cooperative Extension","Orleans Digital Literacy Initiative",,Active,Not-for-profit,http://orleans.cce.cornell.edu/digital-literacy,"Katie Leach",kel99@cornell.edu,"(585) 798-4265",0,1,0,30522242
+17,GCFGlobal,"Online Technology Skills Training",,Active,Not-for-profit,https://edu.gcfglobal.org/en/subjects/tech/,,,,0,1,0,30522242
+18,"Healthy Community Alliance","Communities Care WNY Family Caregivers Respite Pilot Program, WNY E-Respite Pilot, CaregiverTechSolutions",,"Under Development",Not-for-profit,http://www.communityalliance.org/,"Justin Foster",fosterj@hcanetwork.org,"(716) 316-2841",0,1,0,30522242
+19,"James Prendergast Library Association","1-On-1 Technology Help",,Active,Not-for-profit,https://www.prendergastlibrary.org/one-on-one-tech-help/,"Jennifer Champ",reference@prendergastlibrary.org,"(716) 484-7135 ext. 225",0,1,1,30522242
+20,"Lee-Whedon Memorial Library","Tech Tutor",,Active,Not-for-profit,https://leewhedon.org/,"Samantha Covis",scovis@nioga.org,"(585) 798-3430",0,1,1,30522242
+21,"Leroy R. Coles Branch Library","1-on-1 Tech Help",,Active,Not-for-profit,https://www.buffalolib.org/locations-hours/leroy-r-coles-jr-branch-library,"Elizabeth (Libby) Stengel",stengele@buffalolib.org,"(716) 896-4433",0,1,1,30522242
+22,LinkedIn/Microsoft,"Learn Skills for In-Demand Information Technology Jobs (LinkedIn Learning)",,Active,Not-for-profit,https://opportunity.linkedin.com/skills-for-in-demand-jobs,,,,0,1,0,30522242
+23,"Mission: Ignite","Tech 360",,Active,Not-for-profit,https://www.missionignite.org/tech-360,"Christine Carr-Barmasse",christine@missionignite.org,"(716) 823-7248",0,1,1,30522242
+24,"Nioga Library System","Nioga Mobile Tech",,Active,Not-for-profit,https://niogamobile.tech/index.html,"Sara Taylor",taylor@nioga.org,"(716) 434-6167",0,1,1,30522242
+25,"Olean Public Library","Skillshare Access at the Chautauqua-Cattaraugus Libraries",,Active,Not-for-profit,https://www.cclsny.org/skillshare/,"Michelle LaVoie",info@oleanlibrary.org,"(716) 372-0200",0,1,0,30522242
+26,"Richmond Memorial Library","Tech Tutoring at the Richmond Memorial Library",,Active,Not-for-profit,https://www.batavialibrary.org/,"Elizabeth Beardslee",ebeardslee@nioga.org,"(585) 343-9550",0,1,0,30522242
+27,"Senior Planet from AARP","Digital Essentials for Older Adult Caregivers & Recipients of Care",Elderly,Active,Other,https://seniorplanet.org/,"Breana Clark",bclark@oats.org,,0,1,1,30522242
+28,"South Buffalo Community Association","Computer Classes for Older Adults",,Active,,https://www.southbuffalo.org/seniors,,info@southbuffalo.org,"(716) 822-4532",0,1,0,30522242
+29,"SUNY ATTAIN @ Perry","SUNY ATTAIN Lab at Perry",,Active,Not-for-profit,https://www.pal.sunyattain.org/,,,,0,0,0,30522242
+30,"SUNY ATTAIN @ Buffalo","SUNY ATTAIN Lab at Buffalo Municipal Housing Authority",,Active,Not-for-profit,https://www.bha.sunyattain.org/,"Kevin Thomas",,"(716) 837-7954",0,1,0,30522242
+31,"EOC ATTAIN @ Buffalo","Buffalo EOC ATTAIN Lab",,Active,Not-for-profit,https://www.bfl.sunyattain.org/,"Mayra Colon-Ruiz",,"(716) 645-1997",0,1,0,30522242
+32,"SUNY ATTAIN @ Niagara Falls","SUNY ATTAIN Lab at Niagara Falls Housing Authority",,Active,Not-for-profit,http://www.nha.sunyattain.org/,"Joseph Brown",,"(716) 371-1996",0,1,0,30522242
+33,"SUNY EmTech","SUNY EmTech",,Active,Not-for-profit,http://suny.edu/emtech,"Roberta (Robin) Sullivan",rrs@buffalo.edu,"(716) 645-0773",0,1,0,30522242
+34,"WNY STEM Hub","Hand in Hand Program",,Active,Not-for-profit,https://www.wnystem.org/hand-in-hand,https://www.wnystem.org/board-of-directors,,,0,1,0,30522242
+35,"Sunset Park Library","Affordable Connectivity Program",Public,Active,Library,"Sunset Park Library | Brooklyn Public Library (bklynlibrary.org)","Roxana Benavides",,718.435.3648,0,0,1,9703523
+36,"New Lots Library","Affordable Connectivity Program",Public,Active,Library,"New Lots Library | Brooklyn Public Library (bklynlibrary.org)","Lea Salem",,718.649.0311,0,0,1,9703523
+37,"Rugby Library","Affordable Connectivity Program",Public,Active,Library,"Rugby Library | Brooklyn Public Library (bklynlibrary.org)","Stefanie Sinn",,718.566.0053,0,0,1,9703523
+39,"Albany Broadband Commission","Municipal Internet Service",,Active,"Local Government",https://www.albanyny.gov/1993/Municipal-Internet-Service,,MunicipalInternet@AlbanyNY.gov,,0,0,1,96997152
+40,"Albany Guardian Society Elderly",,Elderly,Active,"Charitable Foundation",https://albanyguardiansociety.org/,"Gretchen Moore",,518.434.2140,0,1,0,96997152
+41,"B&G Club",,,,"National Nonprofit",https://www.bgcschenectady.org/our-clubs,,,,0,1,0,96997152
+42,CanCode,Virtual,,Active,"Higher Education",https://cancode.org,,info@albanycancode.org,518-238-6808,0,1,0,96997152
+44,"CanCode with HVCC",,,Active,"Higher Education",https://albanycancode.org/tag/hvcc/,,https://albanycancode.org/contact,"(518) 238-6808",0,1,0,96997152
+45,"CanCode with SCCC SUNY","Game Design in Python",Youth,Active,"Higher Education",https://sunysccc.edu/About-Us/Workforce-Development-and-Community-Education/Program-and-Course-Catalog/Summer/Kid-and-Teen-Academy.html,,caro@albanycancode.org,,0,1,0,96997152
+46,"Capital Region BOCES",,,Active,"K-12 School",https://www.capitalregionboces.org,,,518-295-3000,0,1,0,96997152
+47,Captain,,Public,Active,Other,https://captaincares.org/,,,,0,1,0,96997152
+54,ETEC,,,,,https://www.schenectadysteel.com/projects/emerging-technology-and-entrepreneurship-complex-etec/,,,,0,1,0,96997152
+58,"Lansingburgh Schools","District Instructional Technology",,Active,Education,https://www.lansingburgh.org/district-technology,,https://www.lansingburgh.org/district-technology,,0,1,0,96997152
+60,"Northeast Regional Information Center (NERIC)",,,Active,,https://neric.org,,,518-862-4900,1,0,0,96997152
+62,"Questar BOCES",,,Active,"Higher Education",https://www.questar.org/,,https://www.questar.org/about/contact/,518-477-8771,0,1,0,96997152
+78,"The STEM Alliance","Digital Pathways","Anyone with need",Active,Nonprofit,https://thestemalliance.org/digital-pathways.html,,digitalpathways@thestemalliance.org,,0,0,1,73195331
+81,"Nassu County Library","County Library",Public,Active,"Not For Profit",https://www.nassaulibrary.org/members/,NULL,NULL,NULL,1,0,0,92352518
+82,"Suffolk County Library","County Library",Public,"Active ","Not For Profit",https://portal.suffolklibrarysystem.org/library-information/library-directory,NULL,NULL,NULL,1,0,0,92352518
+83,"North Country Digital Inclusion","Free WIFI Hotspots",All,Active,Provider,https://chazywestport.com/free-wifi-hotspots/,"Jill Van Hoesen",jvanhoesen@westelcom.net,3157753929,0,0,1,57781908
+86,"North Country Digital Inclusion","Digital Skills Trainings for Older Adults","Older Adults (60+)",Active,Education,https://seniorplanet.org/locations/north-country/,NULL,NULL,518-566-4422,0,1,0,57781908
+87,"Public Libraries in Onondaga County Library","Public Libraries",Public,"Active ","Not For Profit",https://www.onlib.org/locations,NULL,NULL,NULL,1,0,0,40612697
+88,"Public Libraries in North County Library System","Public Libraries",Public,"Active ","Not For Profit",https://web.ncls.org/library-listing,NULL,NULL,NULL,1,0,0,40612697

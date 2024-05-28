@@ -1,0 +1,318 @@
+id,organization,location_name,address,address_2,city,state,zip,phone,email,notes,latitude,longitude
+5,6,"Ahira Hall Memorial Library ","37 W. Main St."," P.O. Box Q",Brocton,NY,14716,"(716) 792-9418",Director@AhiraHall.org,,42.3793,-79.4688
+6,8,"Pilot Tech Center","160 N Union St",NULL,Olean,NY,14760,"(585) 376-0099",,,42.0793,-78.4295
+7,8,"Flagship Tech Center","260 E Main St","Suite 2600",Rochester,NY,14604,"(585) 420-6868",,,43.1577,-77.6053
+8,9,"Alden Ewell Free Library","13280 Broadway",,Alden,NY,14004,,,https://www.buffalolib.org/locations-and-hours,42.9003,-78.4927
+9,9,"Angola Public Library","34 N. Main St.",,Angola,NY,14006,,,https://www.buffalolib.org/locations-and-hours,42.639,-79.028
+10,9,"Anna Reinstein Memorial Library","2580 Harlem Rd.",,Cheektowaga,NY,14225,,,https://www.buffalolib.org/locations-and-hours,42.9135,-78.7842
+12,9,"Aurora Town Public Library","550 Main St.",,"East Aurora",NY,14052,,,https://www.buffalolib.org/locations-and-hours,42.7682,-78.6143
+13,9,"Boston Free Library","9475 Boston State Rd.",," Boston",NY,14025,,,https://www.buffalolib.org/locations-and-hours,42.6276,-78.7353
+14,9,"Central (downtown Buffalo)","1 Lafayette Square",,Buffalo,NY,14203,,,https://www.buffalolib.org/locations-and-hours,42.8854,-78.8718
+15,9,"City Of Tonawanda Public Library","333 Main St",,Tonawanda,NY,14150,,,https://www.buffalolib.org/locations-and-hours,43.0108,-78.8795
+16,9,"Clarence Public Library","3 Town Place",,Clarence,NY,14031,,,https://www.buffalolib.org/locations-and-hours,42.9952,-78.6405
+17,9,"Clearfield Branch","770 Hopkins Rd.",,Williamsville,NY,14221,,,https://www.buffalolib.org/locations-and-hours,43.0001,-78.74
+18,9,"Concord Public Library","18 Chapel St.",,Springville,NY,14141,,,https://www.buffalolib.org/locations-and-hours,42.5106,-78.6657
+19,9,"Crane Branch","633 Elmwood Ave.",,Buffalo,NY,14222,,,https://www.buffalolib.org/locations-and-hours,42.9144,-78.8768
+20,9,"Dudley Branch","2010 South Park Ave.",,Buffalo,NY,14220,,,https://www.buffalolib.org/locations-and-hours,42.844,-78.8234
+21,9,"East Clinton Branch","1929 Clinton St.",,Buffalo,NY,14206,,,https://www.buffalolib.org/locations-and-hours,42.8718,-78.8048
+22,9,"Eden Library","2901 East Church St.",,Eden,NY,14057,,,https://www.buffalolib.org/locations-and-hours,42.6521,-78.8898
+23,9,"Eggertsville-Snyder Branch","4622 Main St",,Snyder,NY,14226,,,https://www.buffalolib.org/locations-and-hours,42.9626,-78.7795
+24,9,"Elma Public Library","1860 Bowen Rd.",,Elma,NY,14059,,,https://www.buffalolib.org/locations-and-hours,42.822,-78.6372
+25,9,"Frank E. Merriweather, Jr. Library","1324 Jefferson Avenue",,"Buffalo ",NY,14208,,,https://www.buffalolib.org/locations-and-hours,42.9113,-78.8541
+26,9,"Grand Island Memorial Library","1715 Bedell Rd.",,"Grand Island ",NY,14072,,,https://www.buffalolib.org/locations-and-hours,43.0371,-78.9553
+27,9,"Hamburg Public Library","102 Buffalo St.",,"Hamburg ",NY,14075,,,https://www.buffalolib.org/locations-and-hours,42.7189,-78.8298
+28,9,"Isaías González-Soto Branch Library (formerly Niagara Branch)","280 Porter Ave.",,Buffalo,NY,14201,,,https://www.buffalolib.org/locations-and-hours,42.9017,-78.8916
+29,9,"Julia Boyer Reinstein","1030 Losson Rd.",,"Cheektowaga ",NY,14227,,,https://www.buffalolib.org/locations-and-hours,42.8807,-78.7192
+30,9,"Kenilworth Branch","318 Montrose Avenue",,"Buffalo ",NY,14223,,,https://www.buffalolib.org/locations-and-hours,42.9561,-78.8275
+31,9,"Kenmore Branch","160 Delaware Rd.",,"Kenmore ",NY,14217,,,https://www.buffalolib.org/locations-and-hours,42.9666,-78.8686
+32,9,"Lackawanna Public Library","560 Ridge Rd.",,"Lackawanna ",NY,14218,,,https://www.buffalolib.org/locations-and-hours,42.8262,-78.8309
+33,9,"Lake Shore Branch Library","S-4857 Lake Shore Rd.",,"Hamburg ",NY,14075,,,https://www.buffalolib.org/locations-and-hours,42.7507,-78.8954
+34,9,"Lancaster Library","5466 Broadway",,"Lancaster ",NY,14086,,,https://www.buffalolib.org/locations-and-hours,42.9,-78.6678
+35,9,"Leroy R. Coles, Jr. Branch Library (formerly East Delavan Branch Library)","1187 E. Delavan Ave.",,Buffalo,NY,14215,,,https://www.buffalolib.org/locations-and-hours,42.9228,-78.8127
+36,9,"Marilla Free Library","11637 Bullis Rd.",,"Marilla ",NY,14102,,,https://www.buffalolib.org/locations-and-hours,42.8404,-78.554
+37,9,"Newstead Public Library","33 Main St.",,"Akron ",NY,14001,,,https://www.buffalolib.org/locations-and-hours,43.0199,-78.5015
+38,9,"North Collins Public Library","2095 School St.",,"North Collins ",NY,14111,,,https://www.buffalolib.org/locations-and-hours,42.5983,-78.9367
+39,9,"North Park Branch","975 Hertel Ave",,"Buffalo ",NY,14216,,,https://www.buffalolib.org/locations-and-hours,42.9473,-78.872
+40,9,"Orchard Park Public Library","S-4570 South Buffalo St.",,"Orchard Park ",NY,14127,,,https://www.buffalolib.org/locations-and-hours,42.759,-78.7461
+41,9,"Elaine M. Panty Branch Library (formerly Riverside Branch)","820 Tonawanda St.",,"Buffalo ",NY,14207,,,https://www.buffalolib.org/locations-and-hours,42.951,-78.9043
+42,9,"Town of Collins Public Library","2341 Main St., P.O. Box 470",,"Collins ",NY,14034,,,https://www.buffalolib.org/locations-and-hours,42.4957,-78.9192
+43,9,"West Seneca Public Library","1300 Union Rd.",,"West Seneca",NY,14224,,,https://www.buffalolib.org/locations-and-hours,42.8356,-78.7547
+44,9,"Williamsville Branch","5571 Main St.",,"Williamsville ",NY,14221,,,https://www.buffalolib.org/locations-and-hours,42.9624,-78.7454
+46,13,"Adult Learning Center","389 Virginia Street",,"Buffalo ",NY,14201,"(716) 888-7088 ext. 218",info@upskill.org,,42.8965,-78.8786
+47,14,"Center for Self Advocacy","1021 Broadway St.","4th Floor",Buffalo,NY,14212,"(716) 768-1795",klewis@center4SA.org,,42.8978,-78.8066
+48,15,"Corfu Public Library","7 MAPLE AVE.",,"CORFU ",NY,14036,"(585) 599-3321",corfulibrary@nioga.org,,42.9598,-78.4034
+49,16,"Cornell Cooperative Extension","12690 State Route 31",,"Albion ",NY,14411,"(585) 798-4265",kel99@cornell.edu,,43.2266,-78.3035
+50,18,"Healthy Community Alliance","1 School Street","Suite 100",Gowanda,NY,14070,"(716) 316-2841",fosterj@hcanetwork.org,,42.4655,-78.9378
+51,19,"James Prendergast Library Association","509 Cherry St",,Jamestown,NY,14701,"(716) 484-7135 ext. 225",reference@prendergastlibrary.org,,42.0983,-79.2438
+52,20,"Lee-Whedon Memorial Library","620 West Ave",,"Medina ",NY,14103,"(585) 798-3430",scovis@nioga.org,,43.2177,-78.3895
+53,21,"Leroy R. Coles Branch Library","1187 E. Delavan Ave.",,"Buffalo ",NY,14215,"(716) 896-4433",stengele@buffalolib.org,,42.9228,-78.8127
+54,23,"Mission: Ignite","701 Seneca St.","Suite 601","Buffalo ",NY,14210,"(716) 823-7248",christine@missionignite.org,,42.876,-78.8525
+55,24,"Nioga Library System","6575 Wheeler Road",,"Lockport ",NY,14094,"(716) 434-6167",taylor@nioga.org,,43.2228,-78.67
+56,25,"Olean Public Library","106 W 5th Street",,"Jamestown ",NY,14701,"(716) 372-0200",info@oleanlibrary.org,,42.0979,-79.2432
+57,26,"Richmond Memorial Library","19 Ross St",,"Batavia ",NY,14020,"(585) 343-9550",ebeardslee@nioga.org,,42.9978,-78.1771
+58,27,"Senior Planet from AARP","60 Smithfield Boulevard",,"Plattsburgh ",NY,12901,,bclark@oats.org,,44.7012,-73.4897
+59,28,"Tosh Collins Community Center","35 Cazenovia Street",,Buffalo,NY,14220,"(716) 822-4532",info@southbuffalo.org,,42.8487,-78.8118
+60,29,"SUNY ATTAIN Lab","204 N Main St",,Perry,NY,14530,,,,42.7272,-77.9918
+61,30,"Martha P. Mitchell Community Center","175 Oakmont Ave",,Buffalo,NY,14215,"(716) 837-7954",,,42.9327,-78.8077
+62,31,"State University of New York","555 Ellicott St","Room 405",Buffalo,NY,14203,"(716) 645-1997",,,42.8942,-78.8688
+63,33,"SUNY Buffalo","12 Capen Hall",,Buffalo,NY," 14260-1660","(716) 371-1996",,,43.0011,-78.7895
+64,34,"WNY STEM Hub","229 W. Genesee Street","PO Box 462",Buffalo,NY,14201,"(716) 645-0773",rrs@buffalo.edu,,42.8861,-78.881
+65,35,"Brooklyn Public Library - Sunset Park Branch","4201 Fourth Avenue",NULL,Brooklyn,NY,11232,718.435.3648,NULL,NULL,40.651,-74.0079
+66,36,"Brooklyn Public Library - New Lots Branch","665 New Lots Avenue at","Barbey St",Brooklyn,NY,11207,718.649.0311,NULL,NULL,40.6659,-73.8858
+67,37,"Brooklyn Public Library - Rugby Branch","1000 Utica Ave",NULL,Brooklyn,NY,11203,718.566.0053,NULL,NULL,40.6494,-73.9302
+70,81,"Baldwin Public Library","2385 Grand Ave",NULL,Baldwin,NY,11510,15162236228,NULL,http://www.baldwinpl.org,40.6688,-73.6101
+71,81,"Bayville Free Library","34 School St","# B",Bayville,NY,11709,15166282765,NULL,http://www.bayvillefreelibrary.org/,40.9076,-73.5669
+72,81,"Bellmore Memorial Library","2288 Bedford Ave",NULL,Bellmore,NY,11710,15167852990,NULL,http://www.bellmorelibrary.org/,40.6679,-73.5272
+73,81,"Bethpage Public Library","47 Powell Ave",NULL,Bethpage,NY,11714,15169313907,NULL,http://www.bethpagelibrary.info/,40.743,-73.4781
+74,81,"Bryant Library(in Roslyn)","2 Papermill Rd",NULL,Roslyn,NY,11576,15166212240,NULL,http://www.bryantlibrary.org/,40.7982,-73.6466
+75,81,"East Meadow Public Library","1886 Front St",NULL,"East Meadow",NY,11554,15167942570,NULL,http://www.eastmeadow.info/,40.7201,-73.5634
+76,81,"East Rockaway Public Library","477 Atlantic Ave",NULL,"East Rockaway",NY,11518,15165991664,NULL,http://eastrockawaylibrary.org/,40.6423,-73.6657
+77,81,"East Williston Public Library","2 Prospect St",NULL,"East Williston",NY,11596,15167411213,NULL,http://www.ewlibrary.org/,40.7569,-73.639
+78,81,"Elmont Memorial Library","700 Hempstead Turnpike",NULL,Elmont,NY,11003,15163545280,NULL,http://www.elmontlibrary.org/,40.7082,-73.6997
+79,81,"Farmingdale Public Library","116 Merritts Rd",NULL,Farmingdale,NY,11735,15162499090,NULL,http://www.farmingdalelibrary.org/,40.7285,-73.4605
+80,81,"Floral Park Public Library","17 Caroline Pl",NULL,"Floral Park",NY,11001,15163266330,NULL,http://www.floralparklibrary.org/,40.7254,-73.7063
+81,81,"Franklin Square Public Library","19 Lincoln Rd",NULL,"Franklin Square",NY,11010,15164883444,NULL,http://www.franklinsquarepl.org/,40.7077,-73.6704
+82,81,"Freeport Memorial Library","144 W Merrick Rd",NULL,Freeport,NY,11520,15163793274,NULL,http://www.freeportlibrary.info/,40.6537,-73.5864
+83,81,"Garden City Public Library","60 7th St",NULL,"Garden City",NY,11530,15167428405,NULL,http://gardencitypl.org,40.724,-73.6385
+84,81,"Glen Cove Public Library","4 Glen Cove Ave",NULL,"Glen Cove",NY,11542,15166762130,NULL,http://www.glencovelibrary.org/,40.8631,-73.6326
+85,81,"Gold Coast Public Library","50 Railroad Ave",NULL,"Glen Head",NY,11545,15167598300,NULL,http://goldcoastlibrary.org/,40.8323,-73.6251
+86,81,"Great Neck Library","159 Bayview Ave",NULL,"Great Neck",NY,11023,15164668055,NULL,http://www.greatnecklibrary.org/,40.7992,-73.7472
+87,81,"Great Neck Library Lakeville Branch","475 Great Neck Rd",NULL,"Great Neck",NY,11021,15164668055,NULL,NULL,40.7758,-73.7318
+88,81,"Great Neck Library Station Branch","26 Great Neck Rd",NULL,"Great Neck",NY,11021,15164668055,NULL,NULL,40.7856,-73.7257
+89,81,"Great Neck Library Parkville Branch","10 Campbell St",NULL,"New Hyde Park",NY,11040,15164668055,NULL,NULL,40.7486,-73.6976
+90,81,"Hempstead Public Library","115 James A. Garner Way",NULL,Hempstead,NY,11550,15164816990,NULL,http://www.hempsteadlibrary.info,40.7103,-73.6221
+91,81,"Henry Waldinger Memorial Library(in Valley Stream)","60 Verona Pl",NULL,"Valley Stream",NY,11582,15168256422,NULL,http://www.nassaulibrary.org/valleyst,40.6637,-73.7069
+92,81,"Hewlett-Woodmere Public Library","1125 Broadway",NULL,Hewlett,NY,11557,15163741967,NULL,http://www.hwpl.org,40.6339,-73.7045
+93,81,"Hicksville Public Library","169 Jerusalem Ave",NULL,Hicksville,NY,11801,15169311417,NULL,http://www.hicksvillelibrary.org/,40.7621,-73.5232
+94,81,"Hillside Public Library(in New Hyde Park)","155 Lakeville Rd",NULL,"New Hyde Park",NY,11040,15163557850,NULL,https://www.hillsidelibrary.info,40.7345,-73.6881
+95,81,"Island Park Public Library","176 Long Beach Rd",NULL,"Island Park",NY,11558,15164320122,NULL,http://www.islandparklibrary.org,40.6023,-73.656
+96,81,"Island Trees Public Library","38 Farmedge Rd",NULL,Levittown,NY,11756,15167312211,NULL,http://www.islandtreespubliclibrary.org/,40.7364,-73.4988
+97,81,"Jericho Public Library","1 Merry Ln",NULL,Jericho,NY,11753,15169356790,NULL,http://www.jericholibrary.org,40.7936,-73.5351
+98,81,"Lakeview Public Library","1120 Woodfield Rd",NULL,"Rockville Centre",NY,11570,15165363071,NULL,http://lakeview.nassaulibrary.org/,40.6738,-73.6531
+99,81,"Levittown Public Library","1 Bluegrass Ln",NULL,Levittown,NY,11756,15167315728,NULL,http://www.levittownpl.org,40.7234,-73.5299
+100,81,"Locust Valley Library","170 Buckram Rd",NULL,"Locust Valley",NY,11560,15166711837,NULL,http://www.locustvalleylibrary.org/,40.8783,-73.591
+101,81,"Long Beach Public Library","111 W Park Ave",NULL,"Long Beach",NY,11561,15164327201,NULL,http://www.longbeachlibrary.org,40.5889,-73.6675
+102,81,"Long Beach Library- West End Branch","903 W Beech St",NULL,"Long Beach",NY,11561,15164322704,NULL,NULL,40.5861,-73.6918
+103,81,"Long Beach POINT LOOKOUT Branch","79 Lido Blvd",NULL,"Point Lookout",NY,11569,15164323409,NULL,NULL,40.5919,-73.581
+104,81,"Lynbrook Public Library","56 Eldert St",NULL,Lynbrook,NY,11563,15165998630,NULL,http://www.lynbrooklibrary.org/,40.6541,-73.6743
+105,81,"Malverne Public Library","61 St Thomas Pl",NULL,Malverne,NY,11565,15165990750,NULL,http://www.malvernelibrary.org/,40.6761,-73.6713
+106,81,"Manhasset Public Library","30 Onderdonk Ave",NULL,Manhasset,NY,11030,15166272300,NULL,http://www.manhassetlibrary.org,40.7933,-73.6947
+107,81,"Massapequa Public Library - Central Avenue Building","523 Central Ave",NULL,Massapequa,NY,11758,15167984607,NULL,http://www.massapequalibrary.org/,40.6784,-73.4718
+108,81,"Massapequa Public Library - Bar Harbour Building","40 Harbor Ln",NULL,"Massapequa Park",NY,11762,15167990770,NULL,NULL,40.664,-73.4562
+109,81,"Merrick Library","2279 Merrick Ave",NULL,Merrick,NY,11566,15163776112,NULL,http://www.merricklibrary.org,40.6618,-73.5513
+110,81,"Mineola Public Library","195 Marcellus Rd",NULL,Mineola,NY,11501,15167468488,NULL,http://www.mineolalibrary.info/,40.7441,-73.6465
+111,81,"North Bellmore Public Library","1551 Newbridge Rd",NULL,"North Bellmore",NY,11710,15167856260,NULL,http://www.northbellmorelibrary.org/,40.6831,-73.5397
+112,81,"North Merrick Public Library","1691 Meadowbrook Rd",NULL,"North Merrick",NY,11566,15163787474,NULL,http://www.northmerrickpubliclibrary.org,40.6765,-73.5682
+113,81,"Oceanside Library","56 Atlantic Ave",NULL,Oceanside,NY,11572,15167662360,NULL,http://www.oceansidelibrary.com/,40.6399,-73.6419
+114,81,"Oyster Bay-East Norwich Public Library","89 E Main St",NULL,"Oyster Bay",NY,11771,15169221212,NULL,http://www.oysterbaylibrary.org,40.872,-73.5267
+115,81,"Peninsula Public Library","280 Central Ave",NULL,Lawrence,NY,11559,15162393262,NULL,http://www.peninsulapublic.org/,40.6167,-73.7322
+116,81,"Plainedge Public Library","1060 Hicksville Rd",NULL,"North Massapequa",NY,11758,15167354133,NULL,http://www.plainedgelibrary.org,40.7089,-73.4825
+117,81,"Plainview-Old Bethpage Public Library","999 Old Country Rd",NULL,Plainview,NY,11803,15169380077,NULL,http://www.poblib.org/,40.7749,-73.4733
+118,81,"Port Washington Public Library","1 Library Dr",NULL,"Port Washington",NY,11050,15168834400,NULL,http://www.pwpl.org/,40.8319,-73.6967
+119,81,"Rockville Centre Public Library","221 N Village Ave",NULL,"Rockville Centre",NY,11570,15167666257,NULL,http://www.rvclibrary.org,40.6642,-73.6485
+120,81,"Roosevelt Public Library","27 W Fulton Ave",NULL,Roosevelt,NY,11575,15163780222,NULL,http://www.rooseveltlibrary.org/,40.6756,-73.5886
+121,81,"Sea Cliff Village Library","300 Sea Cliff Ave",NULL,"Sea Cliff",NY,11579,15166714290,NULL,http://www.seaclifflibrary.org,40.8495,-73.6471
+122,81,"Seaford Public Library","2234 Jackson Ave","# A",Seaford,NY,11783,15162211334,NULL,http://www.seafordlibrary.org/,40.6669,-73.4872
+123,81,"Shelter Rock Public Library(in Albertson)","165 Searingtown Rd S",NULL,Albertson,NY,11507,15162487363,NULL,http://www.srpl.org,40.7626,-73.6563
+124,81,"Syosset Public Library","225 S Oyster Bay Rd",NULL,Syosset,NY,11791,15169217161,NULL,http://www.syossetlibrary.org/,40.7988,-73.5021
+125,81,"Uniondale Public Library","400 Uniondale Ave",NULL,Uniondale,NY,11553,15164892220,NULL,http://www.uniondalelibrary.org/,40.7063,-73.593
+126,81,"Wantagh Public Library","3285 Park Ave",NULL,Wantagh,NY,11793,15162211200,NULL,http://www.wantaghlibrary.org/,40.6743,-73.5112
+127,81,"West Hempstead Public Library","500 Hempstead Ave",NULL,"West Hempstead",NY,11552,15164816591,NULL,http://www.whplibrary.org,40.6958,-73.6544
+128,81,"Westbury Memorial Public Library","445 Jefferson St",NULL,Westbury,NY,11590,15163330176,NULL,http://www.westburylibrary.org,40.7623,-73.5833
+129,81,"Williston Park Public Library","494 Willis Ave ","# B","Williston Park",NY,11596,15167421820,NULL,http://www.willistonparklibrary.org/,40.7575,-73.6449
+130,82,"Amagansett Free Library","215 Main Street","PO Box 2550 ",Amagansett,NY,11930,(631)267-3810,NULL,https://portal.suffolklibrarysystem.org//locations/amagansett-free-library,40.9754,-72.1406
+131,82,"Amityville Public Library","19 John Street",NULL,"Amityville ",NY,11701,(631)264-0567,NULL,https://portal.suffolklibrarysystem.org//locations/amityville-public-library,40.6796,-73.4192
+132,82,"Babylon Public Library","24 South Carll Ave",NULL,"Babylon ",NY,11702,(631)669-1624,NULL,https://portal.suffolklibrarysystem.org//locations/babylon-public-library,40.6951,-73.3259
+133,82,"Baiting Hollow Free Library","4 Warner Drive",NULL,"Calverton ",NY,11933,(631)727-8765,NULL,https://portal.suffolklibrarysystem.org//locations/baiting-hollow-free-library,40.958,-72.7347
+134,82,"Bay Shore-Brightwaters Public Library","One South Country Road",NULL,"Brightwaters ",NY,11718,(631)665-4350,NULL,https://portal.suffolklibrarysystem.org//locations/bay-shore-brightwaters-public-library,40.7135,-73.2577
+135,82,"Bayport-Blue Point Public Library","186 Middle Road",NULL,"Blue Point ",NY,11715,(631)363-6133,NULL,https://portal.suffolklibrarysystem.org//locations/bayport-blue-point-public-library,40.7432,-73.0356
+136,82,"Brentwood Public Library","34 Second Avenue",NULL,"Brentwood ",NY,11717,(631)273-7883,NULL,https://portal.suffolklibrarysystem.org//locations/brentwood-public-library,40.7779,-73.2482
+137,82,"Brookhaven Free Library","273 Beaver Dam Road",NULL,"Brookhaven ",NY,11719,(631)286-1923,NULL,https://portal.suffolklibrarysystem.org//locations/brookhaven-free-library,40.774,-72.912
+138,82,"Center Moriches Free Public Library","235 Main Street Center",NULL,"Moriches ",NY,11934,(631)878-0940,NULL,https://portal.suffolklibrarysystem.org//locations/center-moriches-free-public-library,40.8004,-72.7883
+139,82,"Central Islip Public Library","33 Hawthorne Avenue",NULL,"Central Islip ",NY,11722,(631)234-9333,NULL,https://portal.suffolklibrarysystem.org//locations/central-islip-public-library,40.7954,-73.1952
+140,82,"Cold Spring Harbor Library","95 Harbor Road",NULL,"Cold Spring Harbor ",NY,11724,(631)692-6820,NULL,https://portal.suffolklibrarysystem.org//locations/cold-spring-harbor-library,40.8632,-73.4613
+141,82,"Commack Public Library","18 Hauppauge Road",NULL,"Commack ",NY,11725,(631)499-0888,NULL,https://portal.suffolklibrarysystem.org//locations/commack-public-library,40.829,-73.2938
+142,82,"Comsewogue Public Library","170 Terryville Road",NULL,"Port Jefferson Station ",NY,11776,(631)928-1212,NULL,https://portal.suffolklibrarysystem.org//locations/comsewogue-public-library,40.9237,-73.0533
+143,82,"Connetquot Public Library","760 Ocean Avenue",NULL,"Bohemia ",NY,11716,(631)567-5079,NULL,https://portal.suffolklibrarysystem.org//locations/connetquot-public-library,40.7588,-73.1179
+144,82,"Copiague Memorial Public Library","50 Deauville Boulevard",NULL,"Copiague ",NY,11726,(631)691-1111,NULL,https://portal.suffolklibrarysystem.org//locations/copiague-memorial-public-library,40.6687,-73.4025
+145,82,"Cutchogue New Suffolk Free Library","27550 Main Road","P.O.Box 935","Cutchogue ",NY,11935,(631)734-6360,NULL,https://portal.suffolklibrarysystem.org//locations/cutchogue-new-suffolk-free-library,41.0091,-72.4857
+146,82,"Deer Park Public Library","44 Lake Avenue",NULL,"Deer Park ",NY,11729,(631)586-3000,NULL,https://portal.suffolklibrarysystem.org//locations/deer-park-public-library,40.76,-73.3229
+147,82,"East Hampton Library","159 Main Street",NULL,"East Hampton ",NY,11937,(631)324-0222,NULL,https://portal.suffolklibrarysystem.org//locations/east-hampton-library,40.9581,-72.1912
+148,82,"East Islip Public Library","381 East Main Street",NULL,"East Islip ",NY,11730,(631)581-9200,NULL,https://portal.suffolklibrarysystem.org//locations/east-islip-public-library,40.7358,-73.1733
+149,82,"Elwood Public Library","1929 Jericho Turnpike",NULL,"Elwood ",NY,11731,(631)499-3722,NULL,https://portal.suffolklibrarysystem.org//locations/elwood-public-library,40.8385,-73.332
+150,82,"Emma S. Clark Memorial Library","120 Main Street",NULL,"Setauket ",NY,11733,(631)941-4080,NULL,https://portal.suffolklibrarysystem.org//locations/emma-s-clark-memorial-library,40.9449,-73.112
+151,82,"Fishers Island Library","988 Oriental Avenue","PO Box366","Fishers Island ",NY,6390,(631)788-7362,NULL,https://portal.suffolklibrarysystem.org//locations/fishers-island-library,41.2615,-72.0149
+152,82,"Floyd Memorial Library","539 First Street",NULL,"Greenport ",NY,11944,(631)477-0660,NULL,https://portal.suffolklibrarysystem.org//locations/floyd-memorial-library,41.1055,-72.3619
+153,82,"Half Hollow Hills Community Library-Dix Hills Branch","55 Vanderbilt Parkway",NULL,"Dix Hills ",NY,11746,(631)421-4530,NULL,https://portal.suffolklibrarysystem.org//locations/half-hollow-hills-community-library-dix-hills-branch,40.804,-73.3604
+154,82,"Half Hollow Hills Community Library-Melville Branch","510 Sweet Hollow Road",NULL,"Melville ",NY,11747,(631)421-4535,NULL,https://portal.suffolklibrarysystem.org//locations/half-hollow-hills-community-library-melville-branch,40.7923,-73.419
+155,82,"Hampton Bays Public Library","52 Ponquogue Ave",NULL,"Hampton Bays ",NY,11946,(631)728-6241,NULL,https://portal.suffolklibrarysystem.org//locations/hampton-bays-public-library,40.873,-72.5205
+156,82,"Hampton Library in Bridgehampton","2478 Main Street","P.O.Box 3025","Bridgehampton ",NY,11932,(631)537-0015,NULL,https://portal.suffolklibrarysystem.org//locations/hampton-library-bridgehampton,40.9374,-72.3021
+157,82,"Harbor fields Public Library","31 Broadway",NULL,"Greenlawn ",NY,11740,(631)757-4200,NULL,https://portal.suffolklibrarysystem.org//locations/harborfields-public-library,40.8712,-73.3668
+158,82,"Hauppauge Public Library","1373 Veterans Memorial Highway",NULL,"Hauppauge ",NY,11788,(631)979-1600,NULL,https://portal.suffolklibrarysystem.org//locations/hauppauge-public-library,40.8142,-73.1911
+159,82,"Huntington Public Library","338 Main Street",NULL,"Huntington ",NY,11743,(631)427-5165,NULL,https://portal.suffolklibrarysystem.org//locations/huntington-public-library,40.8705,-73.4301
+160,82,"Huntington Public Library-Station Branch","1335 New York Avenue",NULL,"Huntington Station ",NY,11746,(631)421-5053,NULL,https://portal.suffolklibrarysystem.org//locations/huntington-public-library-station-branch,40.8506,-73.412
+161,82,"Islip Public Library","71 Monell Avenue",NULL,"Islip ",NY,11751,(631)581-5933,NULL,https://portal.suffolklibrarysystem.org//locations/islip-public-library,40.7267,-73.2137
+162,82,"John Jermain Memorial Library","201 Main Street",NULL,"Sag Harbor ",NY,11963,(631)725-0049,NULL,https://portal.suffolklibrarysystem.org//locations/john-jermain-memorial-library,40.9975,-72.2964
+163,82,"Lindenhurst Memorial Library","One Lee Avenue",NULL,"Lindenhurst ",NY,11757,(631)957-7755,NULL,https://portal.suffolklibrarysystem.org//locations/lindenhurst-memorial-library,40.6827,-73.3678
+164,82,"Longwood Public Library","800 Middle Country Road",NULL,"Middle Island ",NY,11953,(631)924-6400,NULL,https://portal.suffolklibrarysystem.org//locations/longwood-public-library,40.8821,-72.9441
+165,82,"Mastics-Moriches-Shirley Community Library","407 William Floyd Parkway",NULL,"Shirley ",NY,11967,631-399-1511,NULL,https://portal.suffolklibrarysystem.org//locations/mastics-moriches-shirley-community-library,40.7827,-72.8627
+166,82,"Mattituck-Laurel Library","13900 Main Road","PO Box 1437","Mattituck ",NY,11952,(631)298-4134,NULL,https://portal.suffolklibrarysystem.org//locations/mattituck-laurel-library,40.9923,-72.5302
+167,82,"Middle Country Public Library","101 Eastwood Boulevard",NULL,"Centereach ",NY,11720,(631)585-9393,NULL,https://portal.suffolklibrarysystem.org//locations/middle-country-public-library,40.8648,-73.0799
+168,82,"Middle Country Public Library-Selden Branch","575 Middle Country Road",NULL,"Selden ",NY,11784,(631)585-9393,NULL,https://portal.suffolklibrarysystem.org//locations/middle-country-public-library-selden-branch,40.8675,-73.0327
+169,82,"Montauk Library","871 Montauk Highway",NULL,"Montauk ",NY,11954,(631)668-3377,NULL,https://portal.suffolklibrarysystem.org//locations/montauk-library,41.0384,-71.9394
+170,82,"North Babylon Public Library","815 Deer Park Avenue",NULL,"North Babylon ",NY,11703,(631)669-4020,NULL,https://portal.suffolklibrarysystem.org//locations/north-babylon-public-library,40.7246,-73.3223
+171,82,"North Shore Public Library","250 Route 25A",NULL,"Shoreham ",NY,11786,(631)929-4488,NULL,https://portal.suffolklibrarysystem.org//locations/north-shore-public-library,40.942,-72.8668
+172,82,"Northport-East Northport Public Library","151 Laurel Avenue",NULL,"Northport ",NY,11768,(631)261-6930,NULL,https://portal.suffolklibrarysystem.org//locations/northport-east-northport-public-library,40.896,-73.3375
+173,82,"Northport-East Northport Public Library-East Northport","185 Larkfield Road",NULL,"East Northport ",NY,11731,(631)261-2313,NULL,https://portal.suffolklibrarysystem.org//locations/northport-east-northport-public-library-east-northport,40.8781,-73.3247
+174,82,"Patchogue-Medford Library","54-60 East Main Street",NULL,"Patchogue ",NY,11772,(631)654-4700,NULL,https://portal.suffolklibrarysystem.org//locations/patchogue-medford-library,40.7663,-73.0033
+175,82,"Port Jefferson Free Library","100 Thompson Street",NULL,"Port Jefferson ",NY,11777,(631)-473-0022,NULL,https://portal.suffolklibrarysystem.org//locations/port-jefferson-free-library,40.9469,-73.0664
+176,82,"Quogue Library","90 Quogue Street","PO Box 5036","Quogue ",NY,11959,(631)653-4224,NULL,https://portal.suffolklibrarysystem.org//locations/quogue-library,40.819,-72.5993
+177,82,"Riverhead Free Library","330 Court Street",NULL,"Riverhead ",NY,11901,(631)727-3228,NULL,https://portal.suffolklibrarysystem.org//locations/riverhead-free-library,40.9186,-72.669
+178,82,"Rogers Memorial Library","91 Coopers Farm Road",NULL,"Southampton ",NY,11968,(631)283-0774,NULL,https://portal.suffolklibrarysystem.org//locations/rogers-memorial-library,40.8864,-72.3933
+179,82,"Sachem Public Library","150 Holbrook Road",NULL,"Holbrook ",NY,11741,(631)588-5024,NULL,https://portal.suffolklibrarysystem.org//locations/sachem-public-library,40.8232,-73.0811
+180,82,"Sayville Library","88 Greene Avenue",NULL,"Sayville ",NY,11782,(631)589-4440,NULL,https://portal.suffolklibrarysystem.org//locations/sayville-library,40.7377,-73.0861
+181,82,"Shelter Island Public Library","37 N Ferry Rd",NULL,"Shelter Island",NY,11964,(631)749-0042,NULL,https://portal.suffolklibrarysystem.org//locations/shelter-island-public-library,41.0685,-72.3394
+182,82,"Smithtown Library-Commack Building","3 Indian Head Road",NULL,"Commack ",NY,11725,(631)360-2480,NULL,https://portal.suffolklibrarysystem.org//locations/smithtown-library-commack-building,40.8471,-73.2791
+183,82,"Smithtown Library-Kings Park Building","1 Church Street",NULL,"Kings Park ",NY,11754,(631)360-2480,NULL,https://portal.suffolklibrarysystem.org//locations/smithtown-library-kings-park-building,40.8848,-73.2535
+184,82,"Smithtown Library-Nesconset Building","148 Smithtown Boulevard",NULL,"Nesconset ",NY,11767,(631)360-2480,NULL,https://portal.suffolklibrarysystem.org//locations/smithtown-library-nesconset-building,40.8367,-73.1591
+185,82,"Smithtown Library-Smithtown Building","1 North Country Road",NULL,"Smithtown ",NY,11787,(631)360-2480,NULL,https://portal.suffolklibrarysystem.org//locations/smithtown-library-smithtown-building,40.8567,-73.1865
+186,82,"South Country Library","22 Station Road",NULL,"Bellport ",NY,11713,(631)286-0818,NULL,https://portal.suffolklibrarysystem.org//locations/south-country-library,40.7581,-72.9408
+187,82,"South Huntington Public Library","145 Pidgeon Hill Road",NULL,"Huntington Station ",NY,11746,(631)549-4411,NULL,https://portal.suffolklibrarysystem.org//locations/south-huntington-public-library,40.8326,-73.3899
+188,82,"Southold Free Library","53705 Main Road","P.O. Box 697","Southold ",NY,11971,(631)765-2077,NULL,https://portal.suffolklibrarysystem.org//locations/southold-free-library,41.0641,-72.4286
+189,82,"Suffolk Cooperative Library System","627 North Sunrise Service Road",NULL,"Bellport ",NY,11713,(631)286-1600,NULL,https://portal.suffolklibrarysystem.org//locations/suffolk-cooperative-library-system,40.7889,-72.9611
+190,82,"West Babylon Public Library","211 Route 109",NULL,"West Babylon ",NY,11704,(631)669-5445,NULL,https://portal.suffolklibrarysystem.org//locations/west-babylon-public-library,40.6957,-73.3257
+191,82,"West \Islip Public Library","3 Higbie Lane",NULL,"West Islip ",NY,11795,(631)661-7080,NULL,https://portal.suffolklibrarysystem.org//locations/west-islip-public-library,40.6973,-73.3064
+192,82,"Westhampton Free Library","7 Library Avenue",NULL,"Westhampton Beach ",NY,11978,(631)288-3335,NULL,https://portal.suffolklibrarysystem.org//locations/westhampton-free-library,40.8093,-72.6416
+193,82,"Wyandanch Public Library","14 South 20th Street",NULL,"Wyandanch ",NY,11798,(631)643-4848,NULL,https://portal.suffolklibrarysystem.org//locations/wyandanch-public-library,40.7488,-73.3643
+194,83,"Chazy Central Rural School","609 Miner Farm Rd.",NULL,Chazy,NY,12921,3157753929,jvanhoesen@westelcom.net,https://chazywestport.com/free-wifi-hotspots/,44.8873,-73.4329
+195,83,"Elizabethtown Social Center","7626 US-9",NULL,Elizabethtown,NY,12932,3157753929,jvanhoesen@westelcom.net,https://chazywestport.com/free-wifi-hotspots/,44.2172,-73.5884
+196,83,"JAMBS on Main","6476 Main St",NULL,Westport,NY,12993,3157753929,jvanhoesen@westelcom.net,https://chazywestport.com/free-wifi-hotspots/,44.1824,-73.433
+197,86,"Senior Planet Exploration Center North Country","60 Smithfield Boulevard",NULL,Plattsburgh,NY,12901,518-566-4422,NULL,https://seniorplanet.org/locations/north-country/,44.7009,-73.4904
+198,87,"Beauchamp Branch Library","2111 South Salina St.",NULL,Syracuse,NY,13205,"(315) 435-3395",NULL,https://www.onlib.org/locations/city-libraries/beauchamp-branch-library,43.026,-76.145
+199,87,"Betts Branch Library","4862 South Salina St.",NULL,Syracuse,NY,13205,"(315) 435-1940",NULL,https://www.onlib.org/locations/city-libraries/betts-branch-library,42.9988,-76.1437
+200,87,"Central Library","447 South Salina St.",NULL,Syracuse,NY,13202,315-435-1900,reference@onlib.org,https://www.onlib.org/locations/city-libraries/central-library,43.0458,-76.1521
+201,87,"Hazard Branch Library","1620 West Genesee Street",NULL,Syracuse,NY,13204,"(315) 435-5326",NULl,https://www.onlib.org/locations/city-libraries/hazard-branch-library,43.0528,-76.1874
+202,87,"Mundy Branch Library","1204 South Geddes St",NULL,Syracuse,NY,13204,"(315) 435-3797",NULl,https://www.onlib.org/locations/city-libraries/mundy-branch-library,43.0357,-76.1747
+203,87,"Syracuse Northeast Community Center Library","716 Hawley Ave.",NULL,Syracuse,NY,13203,"(315) 472-6343",NULl,https://www.onlib.org/locations/city-libraries/syracuse-northeast-community-center,43.0551,-76.1319
+204,87,"Paine Branch Library","113 Nichols Ave.",NULL,Syracuse,NY,13206,"(315) 435-5442",NULl,https://www.onlib.org/locations/city-libraries/paine-branch-library,43.0685,-76.1036
+205,87,"Petit Branch Library","105 Victoria Place",NULL,Syracuse,NY,13210,"(315) 435-3636",NULl,https://www.onlib.org/locations/city-libraries/petit-branch-library,43.0409,-76.1186
+206,87,"Soule Branch Library","101 Springfield Road",NULL,Syracuse,NY,13214,"(315) 435-5320",NULl,https://www.onlib.org/locations/city-libraries/soule-branch-library,43.0483,-76.0941
+207,87,"Syracuse Community Connections Library","401 South Ave",NULL,Syracuse,NY,13204,"(315) 671-5814",NULl,https://www.onlib.org/locations/city-libraries/syracuse-community-connections-library,43.0348,-76.1586
+208,87,"White Branch Library","763 Butternut St.",NULL,Syracuse,NY,13208,"(315) 435-3519",NULl,https://www.onlib.org/locations/city-libraries/white-branch-library,43.0615,-76.1455
+209,87,"Baldwinsville Public Library","33 East Genesee St.",NULL,Baldwinsville,NY,13027,"(315) 635-5631",info@bville.lib.ny.us,http://www.bville.lib.ny.us/,43.1592,-76.3294
+210,87,"Brewerton NOPL","5440 Bennett Steet",NULL,Brewerton,NY,13029,"(315) 676-7484",NULL,https://www.nopl.org/,43.239,-76.1424
+211,87,"Cicero NOPL","8686 Knowledge Lane",NULL,Cicero,NY,13039,"(315) 699-2032",NULL,http://www.nopl.org/,43.1906,-76.1272
+212,87,"Community Library of DeWitt & Jamesville","5110 Jamesville Road",NULL,DeWitt,NY,13078,"(315) 446-3578",NULL,http://www.cldandj.org/,43.02,-76.0722
+213,87,"East Syracuse Free Library","4990 James Street",NULL,"East Syracuse",NY,13057,"(315) 437-4841",NULL,http://www.eastsyracusefreelibrary.org/,43.0695,-76.0732
+214,87,"Elbridge Free Library","241 East Main Street",NULL,Elbridge,NY,13060,"(315) 689-7111",NULL,http://www.elbridgelibrary.org/,43.0365,-76.4382
+215,87,"Fairmount Community Library","406 Chapel Drive",NULL,Syracuse,NY,13219,"(315) 487-8933",NULL,http://www.fairmountlibrary.org/,43.0443,-76.2469
+216,87,"Fayetteville Free Library","300 Orchard Street",NULL,Fayetteville,NY,13066,"(315) 637-6374",NULL,http://www.fflib.org/,43.0256,-76.0068
+217,87,"Jordan Bramley Library","15 Mechanic Street","PO Box 923",Jordan,NY,13080,"(315) 689-3296",NULL,https://jordanbramleylibrary.org/,43.0658,-76.471
+218,87,"LaFayette Public Library","2577 County Rd 11","PO Box 379",LaFayette,NY,13084,"(315) 677-3782",lafay13084@gmail.com,http://www.lafayettelibrary.org/,42.8968,-76.1073
+219,87,"Liverpool Public Library","310 Tulip Street",NULL,Liverpool,NY,13088,"(315) 457-0310",NULL,http://www.lpl.org/,43.103,-76.2078
+220,87,"Manlius Library","1 Arkie Albanese Ave.",NULL,Manlius,NY,13104,"(315) 682-6400",NULL,http://www.manliuslibrary.org/,43.0037,-75.9844
+221,87,"Marcellus Free Library","32 Maple Street",NULL,Marcellus,NY,13108,"(315) 673-3221",marcellus@onlib.org,https://www.marcelluslibrary.org/,42.9857,-76.3365
+222,87,"Maxwell Memorial Library","14 Genesee Street",NULL,Camillus,NY,13031,"(315) 672-3661",NULL,https://maxwellmemoriallibrary.org/,43.0393,-76.3063
+223,87,"Minoa Library","242 N. Main St.",NULL,Minoa,NY,13116,"(315) 656-7401",NULL,http://www.minoalibrary.org/,43.0775,-76.0005
+224,87,"North Syracuse NOPL","100 Trolley Barn Lane",NULL,"North Syracuse",NY,13212,"(315) 458-6184",NULL,http://www.nopl.org/,43.1363,-76.1258
+225,87,"Onondaga Free Library","4840 West Seneca Turnpike",NULL,Syracuse,NY,13215,"(315) 492-1727",info@oflibrary.org,http://www.oflibrary.org/,43.0048,-76.1813
+226,87,"Salina Library","100 Belmont Street",NULL,Mattydale,NY,13211,"(315) 454-4524",info@salinalibrary.org,http://www.salinalibrary.org/,43.1,-76.1502
+227,87,"Skaneateles Library","49 E. Genesee Street",NULL,Skaneateles,NY,13152,"(315) 685-5135",NULL,https://www.skanlibrary.org/,42.9459,-76.4275
+228,87,"Solvay Public Library","615 Woods Road",NULL,Solvay,NY,13209,"(315) 468-2441",NULL,http://solvaylibrary.org/,43.0577,-76.2071
+229,87,"Tully Free Library","12 State Street","PO Box 250",Tully,NY,13159,"(315) 696-8606",NULL,http://www.tullyfreelibrary.org/,42.7972,-76.1102
+230,88,"Adams Free Library","2 North Main Street",NULL,Adams,NY,13605,315-232-2265,admlib@ncls.org,https://www.adamsfreelibrary.org/,43.8094,-76.0243
+231,88,"Alexandria Bay - Macsherry Library","112 Walton Street",NULL,"Alexandria Bay",NY,13607,315-482-2241,alblib@ncls.org,https://www.macsherrylibrary.org/,44.3364,-75.9078
+232,88,"Belleville - Philomathean Free Library","8086 County Route 75",NULL,Belleville,NY,13611,315-846-5103,bellib@ncls.org,https://www.bellevillefreelibrary.org/,43.7841,-76.1193
+233,88,"Brownville Glen Park Library","216 Brown Boulevard",NULL,Brownville,NY,13615,315-788-7889,brolib@ncls.org,https://www.brownvillelibrary.org/,44.0052,-75.9828
+234,88,"Carthage Free Library","412 Budd Street",NULL,Carthage,NY,13619,315-493-2620,carlib@ncls.org,https://carthagefreelibrary.org/,43.9796,-75.6092
+235,88,"Clayton - Hawn Memorial Library","220 John Street",NULL,Clayton,NY,13624,315-686-3762,clalib@ncls.org,https://www.hawnmemoriallibrary.org/,44.2418,-76.0876
+236,88,"Dexter Free Library","120 East Kirby Street",NULL,Dexter,NY,13634,315-639-6785,dexlib@ncls.org,https://dexterfreelibrary.org/,44.008,-76.0445
+237,88,"Ellisburg Free Library","12117 State Route 193",NULL,Ellisburg,NY,13636,315-846-5087,elllib@ncls.org,https://www.ellisburglibrary.org/,43.7347,-76.1308
+238,88,"Henderson Free Library","8939 State Route 178",NULL,Henderson,NY,13650,315-938-7169,henlib@ncls.org,https://www.hendersonfreelibrary.org/,43.8461,-76.1811
+239,88,"Mannsville Free Library","108 Lilac Park Drive",NULL,Mannsville,NY,13661,315-465-4049,manlib@ncls.org,https://www.mannsvillelibrary.org/,43.7124,-76.064
+240,88,"Rodman Public Library","12509 School Street",NULL,Rodman,NY,13682,315-232-4167,rodlib@ncls.org,https://www.rodmanpubliclibrary.org/,43.8495,-75.9408
+241,88,"Theresa Free Library","301 Main Street",NULL,Theresa,NY,13691,315-628-5972,thelib@ncls.org,https://www.theresafreelibrary.org/,44.2161,-75.7998
+242,88,"Watertown - Flower Memorial Library","229 Washington Street",NULL,Watertown,NY,13601,315-785-7705,watlib@ncls.org,https://flowermemoriallibrary.org/,43.973,-75.9105
+243,88,"Adams Center Free Library","18267 State Route 177",NULL,"Adams Center",NY,13606,315-583-5501,adclib@ncls.org,https://www.adamscenterfreelibrary.org/,43.8607,-76.0065
+244,88,"Antwerp - Crosby Public Library","59 Main Street",NULL,Antwerp,NY,13608,315-659-8564,antlib@ncls.org,https://www.crosbylibrary.org/,44.1997,-75.6071
+245,88,"Black River - Sally Ploof Hunter Library","101 Public Works Drive",NULL,"Black River",NY,13612,315-773-5163,blrlib@ncls.org,https://sallyploofhunterlibrary.org/,44.016,-75.7867
+246,88,"Cape Vincent Community Library","157 North Real Street Cape",NULL,Vincent,NY,13618,315-654-2132,cavlib@ncls.org,https://www.capevincentlibrary.org/,44.1276,-76.3396
+247,88,"Chaumont - Lyme Free Library","12165 Main Street",NULL,Chaumont,NY,13622,315-649-5454,chalib@ncls.org,https://lymefreelibrary.org/,44.066,-76.1279
+248,88,"Depauville Free Library","32333 County Route 179",NULL,Depauville,NY,13632,315-686-3299,deplib@ncls.org,https://www.depauvillefreelibrary.org/,44.1327,-76.0757
+249,88,"East Hounsfield Free Library","19438 State Route 3 East",NULL,Hounsfield,NY,13601,315-788-0637,eholib@ncls.org,https://www.easthounsfieldlibrary.org/,43.9696,-75.9857
+250,88,"Evans Mills Public Library","8706 Noble Street",NULL,"Evans Mills",NY,13637,315-629-4483,evmlib@ncls.org,https://www.evansmillspubliclibrary.org/,44.0883,-75.8073
+251,88,"Orleans Public Library","36263 State Route 180",NULL,Lafargeville,NY,13656,315-658-2271,laflib@ncls.org,https://www.lafargevillelibrary.org/,44.1934,-75.9669
+252,88,"Philadelphia - Bodman Memorial Library","8 Aldrich Street",NULL,Philadelphia,NY,13673,315-642-3323,philib@ncls.org,https://www.bodmanmemoriallibrary.org/,44.1575,-75.7046
+253,88,"Sackets Harbor - Hay Memorial Library","105 South Broad St.",NULL,"Sackets Harbor",NY,13685,315-646-2228,sahlib@ncls.org,https://www.haymemoriallibrary.org/,43.9458,-76.1192
+254,88,"Thousand Island Park Library","42822 St. Lawrence Avenue",NULL,"Thousand Island Park",NY,13692,315-215-4133,tiplib@ncls.org,https://www.tiparklibrary.org/,44.2873,-76.0264
+255,88,"Beaver Falls Library","9607 Lewis Street",NULL,"Beaver Falls",NY,13305,315-346-6216,bvflib@ncls.org,https://www.beaverfallslibrary.org/,43.8861,-75.4286
+256,88,"Constableville Library","3158 Main St.",NULL,Constableville,NY,13325,315-397-2801,cvllib@ncls.org,https://www.cvillelibrary.org/,43.5654,-75.4284
+257,88,"Harrisville Free Library","8209 Main Street",NULL,Harrisville,NY,13648,315-543-2577,harlib@ncls.org,https://www.harrisvillefreelibrary.org/,44.1487,-75.3161
+258,88,"Lyons Falls Library","3918 High Street",NULL,"Lyons Falls",NY,13368,315-348-6180,lyflib@ncls.org,https://lyonsfallslibrary.org/,43.617,-75.3605
+259,88,"Osceola Public Library","2117 North Osceola Road",NULL,Osceola,NY,13316,315-599-7122,osclib@ncls.org,https://www.osceolapublic.org/,43.5011,-75.7221
+260,88,"Turin - B. Elizabeth Strong Memorial Library","6312 East Main Street",NULL,Turin,NY,13473,315-348-6433,turlib@ncls.org,https://www.turinlibrary.org/,43.6276,-75.4098
+261,88,"Brantingham-Greig Reading Center","5186 Greig Road",NULL,Brantingham,NY,13345,315-348-8272,bhmlib@ncls.org,https://www.bhmgreads.org/,43.6796,-75.3539
+262,88,"Croghan Free Library","9794 State Route 812",NULL,Croghan,NY,13327,315-346-6521,crolib@ncls.org,https://croghanfreelibrary.org/,43.8942,-75.392
+263,88,"Lowville Free Library","5387 Dayan Street",NULL,Lowville,NY,13367,315-376-2131,lowlib@ncls.org,http://lowvillefreelibrary.org/,43.7865,-75.4943
+264,88,"Martinsburg - William H. Bush Memorial Library","5605 Whitaker Road",NULL,Martinsburg,NY,13404,315-376-7490,marlib@ncls.org,https://www.martinsburglibrary.org/?fbclid=IwAR1BG3Ksns6QcBdi0Nia8Ek8wJqGGzMEMxI9WTuTd6XpF8utfb8GWdq77-w,43.738,-75.4684
+265,88,"Port Leyden Community Library","3145 Canal Street Port",NULL,Leyden,NY,13433,315-348-6077,plylib@ncls.org,https://www.portleydenlibrary.org/,43.5823,-75.3453
+266,88,"West Leyden - Town of Lewis Library","1039 State Route 26",NULL,"West Leyden",NY,13489,315-942-6813,wlylib@ncls.org,https://www.westleydenlibrary.org/,43.4596,-75.4645
+267,88,"Central Square Library","637 South Main Street",NULL,"Central Square",NY,13036,315-668-6104,csqlib@ncls.org,https://www.centralsquarelibrary.org/,43.2831,-76.145
+268,88,"Hannibal Free Library","162 Oswego Street",NULL,Hannibal,NY,13074,315-564-5471,hanlib@ncls.org,http://hannibalfreelibrary.org/,43.3213,-76.5788
+269,88,"Orwell -Cogswell Free Library","1999 County Route 2",NULL,Orwell,NY,13425,315-298-5563,orwlib@ncls.org,https://www.cogswellfreelibrary.org/,43.575,-75.996
+270,88,"Parish Public Library","3 Church Street",NULL,Parsh,NY,13131,315-625-7130,parlib@ncls.org,https://www.parishpubliclibrary.org/,43.4062,-76.1261
+271,88,"Pulaski Public Library","4917 North Jefferson Street",NULL,Pulaski,NY,13142,315-298-2717,pullib@ncls.org,https://pulaskinypubliclibrary.org/,43.5704,-76.1258
+272,88,"Williamstown Library","2877 County Route 17",NULL,Williamstown,NY,13493,315-964-2802,wmtlib@ncls.org,https://www.williamstownlibrary.org/,43.4236,-75.8875
+273,88,"Fulton Public Library","160 South First Street",NULL,Fulton,NY,13069,315-592-5159,fullib@ncls.org,https://www.fultonpubliclibrary.org/,43.2249,-74.1731
+274,88,"Mexico Public Library","3269 Main Street",NULL,Mexico,NY,13114,315-963-3012,mexlib@ncls.org,https://www.mexicopubliclibrary.org/,43.4593,-76.2294
+275,88,"Oswego Public Library","120 East Second Street",NULL,Oswego,NY,13126,315-341-5867,oswlib@ncls.org,https://oswegopubliclibrary.org/,43.4568,-76.5064
+276,88,"Phoenix Public Library","34 Elm Street",NULL,Pheonix,NY,13125,315-695-4355,phelib@ncls.org,https://www.phoenixnylibrary.org/?fbclid=IwAR11VCocIwQp3-4TIjGLhdMeewX7mcaYmOmdptuGyeJMewMRjRQsYn6tqFo,43.2332,-76.2926
+277,88,"Sandy Creek - Ainsworth Memorial Library","6064 South Main Street",NULL,"Sandy Creek",NY,13145,315-387-3732,scrlib@ncls.org,https://ainsworthmemoriallibrary.org/,43.6417,-76.0867
+278,88,"Badenhausen Reading Room","4 Main St.",NULL,"Brashere Falls",NY,13613,315-389-5033,brslib@ncls.org,NULL,44.8078,-74.7747
+279,88,"Hepburn Library of Colton","84 Main Street",NULL,Colton,NY,13625,315-262-2310,collib@ncls.org,https://www.coltonhepburnlibrary.org/,44.553,-74.939
+280,88,"Hepburn Library of Edwards","205 Main Street",NULL,Edwards,NY,13635,315-562-3521,edwlib@ncls.org,https://hepburnlibrary.org/,44.3273,-75.2494
+281,88,"Hammond Free Library","21 South Main Street",NULL,Hammond,NY,13645,315-324-5139,hamlib@ncls.org,https://www.hammondfreelibrary.org/,44.4484,-75.6948
+282,88,"Heuvelton Free Library","57 State Street",NULL,Heuvelton,NY,13654,315-344-6550,heulib@ncls.org,https://www.heuveltonfreelibrary.org/,44.6167,-75.4047
+283,88,"Hepburn Library of Lisbon","6899 County Route 10",NULL,Lisbon,NY,13658,315-393-0111,lislib@ncls.org,https://hepburnlibraryoflisbon.org/,44.7251,-75.3206
+284,88,"Massena Public Library","41 Glenn Street",NULL,Massena,NY,13662,315-769-9914,maslib@ncls.org,https://www.massenapubliclibrary.org/,44.9311,-74.891
+285,88,"Morristown Public Library","200 Main Street",NULL,Morristown,NY,13664,315-375-8833,mtnlib@ncls.org,https://www.morristownpubliclibrary.org/,44.5879,-75.6496
+286,88,"Norwood Public Library","1 Morton Street",NULL,Norwood,NY,13668,315-353-6692,nowlib@ncls.org,https://norwoodnylibrary.org/,44.7526,-74.9948
+287,88,"Potsdam Public Library","2 Park Street",NULL,Potsdam,NY,13676,315-265-7230,potlib@ncls.org,https://potsdamlibrary.org/,44.6694,-74.9828
+288,88,"Richville Free Library","87 Main Street",NULL,Richville,NY,13681,315-287-1481,riclib@ncls.org,https://www.richvillefreelibrary.org/,44.4136,-75.3954
+289,88,"Hepburn Library of Waddington","30 Main Street",NULL,Waddington,NY,13694,315-388-4454,wadlib@ncls.org,https://waddingtonlibrary.org/,44.8639,-75.2037
+290,88,"Canton Free Library","8 Park Street",NULL,Canton,NY,13617,315-386-3712,canlib@ncls.org,https://www.cantonfreelibrary.org/,44.595,-75.1692
+291,88,"Cranberry Lake - Clifton Community Library","7171 State Highway 3",NULL,"Cranberry Lake",NY,12927,315-848-3256,clklib@ncls.org,https://cliftoncomlib.org/,44.2231,-74.8371
+292,88,"Reading Room Association of Gouverneur","60 Church Street",NULL,Gouverneur,NY,13642,315-287-0191,goulib@ncls.org,https://www.gouverneurlibrary.org/,44.335,-75.4669
+293,88,"Hepburn Library of Hermon","105 Main Street",NULL,Hermon,NY,13652,315-347-2285,herlib@ncls.org,https://www.hermonhepburnlibrary.org/,44.4671,-75.2307
+294,88,"Hopkinton Reading Center","7 Church Street",NULL,Hopkinton,NY,12965,315-328-4113,hoplib@ncls.org,https://www.hopkintonnylibrary.org/,44.6906,-74.7047
+295,88,"Hepburn Library of Madrid","11 Church Street",NULL,Madrid,NY,13660,315-322-5673,madlib@ncls.org,https://www.hepburnlibraryofmadrid.org/,44.7485,-75.1339
+296,88,"Morley Library (Branch of Canton)","7230 County Route 27",NULL,Canton,NY,13617,315-379-0066,morlib@ncls.org,https://www.cantonfreelibrary.org/branch/morley,44.665,-75.1979
+297,88,"Hepburn Library of Norfolk","1 Hepburn Street",NULL,Norfolk,NY,13667,315-384-3052,noflib@ncls.org,https://hepburnlibraryofnorfolk.org/,44.8008,-74.9909
+298,88,"Ogdensburg Public Library","312 Washington Street",NULL,Ogdensburg,NY,13669,315-393-4325,odglib@ncls.org,https://ogdensburgpubliclibrary.org/,44.6991,-75.4932
+299,88,"Rensselaer Falls Library (Branch of Canton)","212 Rensselaer Street",NULL,"Rensselaer Falls",NY,13680,315-344-4155,reflib@ncls.org,https://cantonfreelibrary.org/rensselaer-falls/,44.59,-75.3194
+300,88,"Russell Public Library","24 Pestle Street",NULL,Russel,NY,13684,315-347-2115,ruslib@ncls.org,https://www.russellny.org/library.html,44.4293,-75.152
+301,78,Yonkers,NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",40.9306,-73.8973
+302,78,"Mt. Vernon ",NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",40.9124,-73.8369
+303,78,"Port Chester ",NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",41.0017,-73.6661
+304,78,"Mamaroneck ",NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",40.9492,-73.7334
+305,78,"Ossining ",NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",41.1628,-73.8608
+306,78,"Peekskill ",NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",41.2898,-73.9209
+307,78,"White Plains ",NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",41.034,-73.7643
+308,78,"New Rochelle ",NULL,NULL,NULL,NY,NULL,NULL,NULL,"For the Westchester County",40.9109,-73.7871
+324,42,"Capital South Campus Center","20 Warren Street",NULL,Albany,NY,12202,"(518) 238-6808",https://cancode.org/contact/,https://cancode.org,42.6436,-73.761
+325,44,"Albany CanCode","75 Troy Road",NULL,"East Greenbush",NY,12061,"(518) 238-6808",https://albanycancode.org/contact,https://albanycancode.org/tag/hvcc/,42.6153,-73.7035
+326,45,"SUNY Schenectady County Community College","78 Washington Avenue",NULL,Schenectady,NY,12305,518-381-1200,https://sunysccc.edu/About-Us/Contact-Us/index.html,"This is a Summer Program",42.8148,-73.9499
+327,46,"Capital Region BOCES ","900 Watervliet Shaker Rd",NULL,Albany,NY,12205,"(518) 862-4900",https://www.capitalregionboces.org/contact-us/,https://www.capitalregionboces.org,42.7373,-73.8234
+328,47,"CAPTAIN Community Human Services 1","5 Municipal Plaza","Suite 3","Clifton Park",NY,12065,518.371.1185,https://captaincares.org/about_us/contact.html,https://captaincares.org/,42.8631,-73.7858
+329,47,"CAPTAIN Community Human Services","543 Saratoga Rd",NULL,Glenville,NY,12302,15183994624,https://captaincares.org/about_us/contact.html,https://captaincares.org/,42.8949,-73.9198
+330,54,"UAlbany ETEC Building","1220 Washington Ave",NULL,Albany,NY,12226,"(518) 442-3284",NULL,https://www.schenectadysteel.com/projects/emerging-technology-and-entrepreneurship-complex-etec/,42.6806,-73.816
+331,58,"Lansingburgh Central School District","55 New Turnpike Rd",NULL,Troy,NY,12182,518-233-6850,https://www.lansingburgh.org/district-technology,https://www.lansingburgh.org/district-technology,42.7903,-73.6667
+332,60,"ALBANY OFFICE","900 Watervliet-Shaker Road",NULL,Albany,NY,12205,844-696-3742,NULL,https://neric.org,42.7374,-73.8231
+333,60,"PLATTSBURGH OFFICE","1523 Military Turnpike","Suite 100",Plattsburgh,NY,12901,844-696-3742,NULL,https://neric.org,44.6912,-73.5118
+334,62,"Questar III BOCES","10 Empire State Boulevard",NULL,Castleton,NY,12033,518-477-8771,https://www.questar.org/about/contact/,https://www.questar.org/,42.5775,-73.6839
+335,62,"Donald R. Kline Technical School​","131 Union Turnpike",NULL,Hudson,NY,12534,518-828-4157,NULL,https://www.questar.org/,42.2488,-73.7634
+336,62,"The Durham School","4099 NY-145",NULL,Durham,NY,12422,518-697-5660,NULL,https://www.questar.org/,42.3968,-74.1646
+337,62,"George Washington School","344 Menemsha Lane",NULL,Troy,NY,12180,518-283-5752,NULL,https://www.questar.org/,42.7129,-73.639
+338,62,"Rensselaer Academy","25 Van Rensselaer Drive",NULL,Rensselaer,NY,12144,518-396-3520,NULL,https://www.questar.org/,42.654,-73.7208
+339,62,"Robert H. Gibson Technical School","35 Colleen Road",NULL,Troy,NY,12180,518-273-2264,NULL,https://www.questar.org/,42.7022,-73.6735
+340,62,"Tech Valley High School","246 Tricentennial Drive",NULL,Albany,NY,12203,518-862-4960,NULL,https://www.questar.org/,42.6918,-73.8361

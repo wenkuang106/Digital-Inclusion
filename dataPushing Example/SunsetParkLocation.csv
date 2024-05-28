@@ -1,0 +1,4 @@
+﻿id,organization,location_name,address,address_2,city,state,zip,phone,email,notes,latitude,longitude
+,35,Brooklyn Public Library - Sunset Park Branch,4201 Fourth Avenue,NULL,Brooklyn,NY,11232,718.435.3648,NULL,NULL,40.65096404,-74.0079322
+,36,Brooklyn Public Library - New Lots Branch,665 New Lots Avenue at,Barbey St,Brooklyn,NY,11207,718.649.0311,NULL,NULL,40.66586411,-73.88580448
+,37,Brooklyn Public Library - Rugby Branch,1000 Utica Ave,NULL,Brooklyn,NY,11203,718.566.0053,NULL,NULL,40.64940649,-73.93016472
